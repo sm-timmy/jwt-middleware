@@ -44,6 +44,7 @@
 
 .
 
+
         curl --location --request DELETE 'http://127.0.0.1:1323/api/protected/users/11' \
         --header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
         eyJFbWFpbCI6IiQyYSQxNCRHVzU0ZjJHaGNtd2ozRmNoUi40N2NlUzJLRENSOGNoZjEwS2NBVEdOQ3dzTmdCRW
